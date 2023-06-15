@@ -7,3 +7,4 @@ edition = "2021"
 
 [dependencies]
 spinoff = "0.7.0"
+ftp = "3.0.1"
